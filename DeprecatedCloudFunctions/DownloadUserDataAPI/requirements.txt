@@ -1,0 +1,4 @@
+google-cloud-firestore
+flask
+firebase-admin
+sendgrid

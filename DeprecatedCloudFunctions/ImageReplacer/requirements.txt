@@ -1,0 +1,10 @@
+flickrapi
+google-cloud-storage
+urllib3
+firebase
+firebase-admin
+python_jwt
+gcloud
+sseclient
+pycrypto
+requests-toolbelt

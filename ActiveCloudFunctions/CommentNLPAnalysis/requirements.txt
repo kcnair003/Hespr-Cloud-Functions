@@ -1,0 +1,9 @@
+google-cloud-firestore
+google-api-python-client
+apiclient
+httplib2
+google-oauth
+starkbank-ecdsa
+google-cloud-language
+textblob
+vaderSentiment

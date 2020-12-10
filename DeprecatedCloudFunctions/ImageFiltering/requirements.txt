@@ -1,0 +1,12 @@
+google-cloud-storage
+google-cloud-vision
+Wand
+firebase
+firebase-admin
+python_jwt
+gcloud
+sseclient
+pycrypto
+requests-toolbelt
+google-cloud-language
+datalab

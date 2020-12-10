@@ -1,0 +1,17 @@
+nltk
+pandas
+numpy
+spacy
+sklearn
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.5/en_core_web_sm-2.2.5.tar.gz#en_core_web_sm
+profanity
+google-cloud-firestore
+google-api-python-client
+apiclient
+httplib2
+google-oauth
+sendgrid
+starkbank-ecdsa
+google-cloud-language
+textblob
+vaderSentiment
